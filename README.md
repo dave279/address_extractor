@@ -2,7 +2,7 @@
 
 ### How to Run the Script
 
-1.  Git clone the repo
+1.  Git clone or copy the main.go
 2.  **Prepare Data:** Create a sample large file (e.g., `input.txt`) containing various junk text and addresses.
 3.  **Execute:** Open your terminal in the same directory and run:
 
